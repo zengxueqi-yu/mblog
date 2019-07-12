@@ -1,5 +1,5 @@
 server:
-    port: 8080
+    port: 9001
     use-forward-headers: true
     undertow:
         io-threads: 2
@@ -82,5 +82,5 @@ site:
         storage_max_width: 800
         storage_limit_size: 2
         editor: markdown
-        thumbnail_channel_size: 200x200
+        thumbnail_channel_size: 200x112
         thumbnail_post_size: 360x200

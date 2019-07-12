@@ -1,6 +1,6 @@
-package com.mtons.mblog;
+package com.july.mblog;
 
-import com.mtons.mblog.base.utils.ImageUtils;
+import com.july.mblog.base.utils.ImageUtils;
 import com.qiniu.common.QiniuException;
 import com.qiniu.common.Zone;
 import com.qiniu.http.Response;

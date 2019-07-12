@@ -1,7 +1,7 @@
-package com.mtons.mblog;
+package com.july.mblog;
 
-import com.mtons.mblog.base.utils.FileKit;
-import com.mtons.mblog.base.utils.ImageUtils;
+import com.july.mblog.base.utils.FileKit;
+import com.july.mblog.base.utils.ImageUtils;
 import net.coobird.thumbnailator.Thumbnails;
 import net.coobird.thumbnailator.geometry.Position;
 import net.coobird.thumbnailator.geometry.Positions;

@@ -1,7 +1,7 @@
-package com.mtons.mblog.modules.repository;
+package com.july.mblog.modules.repository;
 
-import com.mtons.mblog.BootApplication;
-import com.mtons.mblog.modules.entity.Resource;
+import com.july.mblog.BootApplication;
+import com.july.mblog.modules.entity.Resource;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
